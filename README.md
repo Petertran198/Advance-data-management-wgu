@@ -280,4 +280,5 @@ $$;
 2.	The store procedure just basically drops  the DetailedStoreSummary & StoreSummaryReport if it exists, as well as its data, and recreate the table using the provided query. To refresh this store procedure and run it every month you will need to also create a trigger that goes a long with it. 
 
 
+### Copyright [2021] [Peter Tran email: petertran198@gmail.com]
 

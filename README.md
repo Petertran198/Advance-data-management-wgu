@@ -70,7 +70,7 @@ J.   Demonstrate professional communication in the content and presentation of y
 
 
 
-## Start of report 
+## Start of report (Please download the word document for a better formatted version) 
 Question: Who is the best sales representative, how much he/she sold, and what store is doing the best
 Business Report Summary:   
 1.	One type of business report that could be created from the DVD database provided, is a sale’s report.  The report should give us a bigger and clearer picture of who is our most talented and prize staff member is.  This report should define the top sales representatives, as well as how much they sold and the store they come from. With this information the report will give us a better understanding of which rental stores is doing the best so we can reward the store as well as their staffs appropriately. 

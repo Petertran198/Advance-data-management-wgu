@@ -76,9 +76,13 @@ Business Report Summary:
 1.	One type of business report that could be created from the DVD database provided, is a sale’s report.  The report should give us a bigger and clearer picture of who is our most talented and prize staff member is.  This report should define the top sales representatives, as well as how much they sold and the store they come from. With this information the report will give us a better understanding of which rental stores is doing the best so we can reward the store as well as their staffs appropriately. 
 2.	The tables that will provide the necessary information to complete both the detailed & summary section of the report are Store, Address, Staff, & Payment.  
 3.	Specific fields of each table: (Primary key is bolded) 
+
 Store	store_id, manager_staff_id, address_id 
+
 Address	address_id, address
+
 Staff	staff_id, first_name, last_name, phone_number, total_sale
+
 Payment	payment_id, staff_id,  amount
 
 4.	One field in the detail section that would need a custom transformation would be the email. Being that the DVDs rental company wants to give recognition where it is deserved, they asked us to update the email and append the word “top. “, to the email of their top salesperson. This would allow them to have top salesperson benefits such as extra discounts on DVDs and merchandises.  This would also allow other team members to know who the very best salesperson is. 	

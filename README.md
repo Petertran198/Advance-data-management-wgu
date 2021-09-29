@@ -1,0 +1,2 @@
+# Advance-data-management-wgu
+4037.4.1 : Writing Complex SQL Statement  The graduate writes complex SQL statements in order to implement functions, stored procedures, and triggers to prepare data sets for data analysis and manipulation.  4037.4.2 : Configuring Extraction, Transformation, and Loading (ETL) Workflows  The graduate configures data extraction, transformation, and loading tasks in order to automate data integration.
